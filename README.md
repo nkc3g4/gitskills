@@ -7,3 +7,5 @@ Modified
 remote change
 
 add g5
+
+g5 pull test
